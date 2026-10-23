@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**tahakhan0301/tahakhan0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Taha Khan 👋
 
-Here are some ideas to get you started:
+🔐 Cybersecurity Student at DUET Karachi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about cybersecurity, ethical hacking, and protecting digital systems.
+
+## 🎯 What I'm Learning
+- 🔐 Cybersecurity Fundamentals
+- 🐧 Linux & Kali Linux
+- 🌐 Networking
+- 🐍 Python Programming
+- 🛡️ Ethical Hacking
+
+## 🛠️ Tools & Technologies
+Linux • Git • GitHub • Python • Networking
+
+## 📚 Current Goal
+Building practical cybersecurity skills through hands-on labs and authorized penetration testing.
+
+## 🤝 Connect With Me
+- GitHub: [@tahakhan0301](https://github.com/tahakhan0301)
+- LinkedIn: Add your LinkedIn profile link here
+
+---
+⭐ Always learning. Always improving.
