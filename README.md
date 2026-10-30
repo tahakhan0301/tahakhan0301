@@ -20,6 +20,7 @@ Building practical cybersecurity skills through hands-on labs and authorized pen
 
 ## 🤝 Connect With Me
 - GitHub: [@tahakhan0301](https://github.com/tahakhan0301)
-- LinkedIn:[tahakhanawan] (https://www.linkedin.com/in/tahakhanawan)
+- LinkedIn: [Taha Khan](https://linkedin.com)
+
 ---
 ⭐ Always learning. Always improving.
